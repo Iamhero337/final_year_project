@@ -1,0 +1,14 @@
+::-webkit-scrollbar{
+    width: 12px;
+}
+::-webkit-scrollbar-thumb{
+    background-color:  rgb(255, 212, 132);
+    border-radius: 8px;
+}
+th,td{
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+.logo_bg{
+    mix-blend-mode: exclusion;
+}
